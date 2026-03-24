@@ -26,13 +26,16 @@ These should be placed in the `data/` directory.
 ## Project Structure
 
 ```
-project-root/
+covid-data-analysis/
 │
-├── data/              # CSV datasets
-├── figures/           # Generated plots
-├── src/
-│   └── analysis.py    # Main analysis script
-├── README.md
+├── data/ # Datasets used for analysis
+├── src/ # Analysis scripts and core logic
+│ └── analysis.py # Main data analysis script
+│
+├── README.md # Project overview and documentation
+├── requirements.txt # Python dependencies
+├── .gitignore # Files ignored by Git
+└── LICENSE # Project license
 ```
 
 ## How to Run
