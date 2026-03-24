@@ -67,6 +67,7 @@ python src/analysis.py
 * Growth rates for early COVID-19 spread were estimated for the UK, France, and Germany
 * Vaccination trends in the UK were modelled and quantified
 * Model fit quality was assessed using statistical methods
+<img width="1189" height="1589" alt="Analysis" src="https://github.com/user-attachments/assets/1f876113-17b2-4db6-969e-5f3b5798cc65" />
 
 ## Technologies Used
 
