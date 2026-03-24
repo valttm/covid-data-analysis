@@ -28,14 +28,14 @@ These should be placed in the `data/` directory.
 ```
 covid-data-analysis/
 │
-├── data/ # Datasets used for analysis
-├── src/ # Analysis scripts and core logic
-│ └── analysis.py # Main data analysis script
+├── data/              # Datasets used for analysis
+├── src/               # Analysis scripts and core logic
+│   └── analysis.py    # Main data analysis script
 │
-├── README.md # Project overview and documentation
-├── requirements.txt # Python dependencies
-├── .gitignore # Files ignored by Git
-└── LICENSE # Project license
+├── README.md          # Project overview and documentation
+├── requirements.txt   # Python dependencies
+├── .gitignore         # Files ignored by Git
+└── LICENSE            # Project license
 ```
 
 ## How to Run
