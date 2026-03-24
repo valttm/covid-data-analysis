@@ -73,9 +73,9 @@ python src/analysis.py
 
 * Python
 * pandas
-* numpy
-* matplotlib
-* scipy
+* NumPy
+* Matplotlib
+* SciPy
 
 ## Notes
 
